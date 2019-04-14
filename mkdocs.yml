@@ -13,6 +13,7 @@ theme:
   name: 'material'
   font: false
   language: 'en'
+  # favicon: 'assets/images/favicon.ico'
 # Customization
 extra:
   social:

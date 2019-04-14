@@ -1,5 +1,33 @@
+# Project information
 site_name: SUSTCS
-nav:
-    - Home: index.md
-    - About: about.md
-theme: readthedocs
+site_author: 'MakerGYT'
+site_description: 'Shaanxi university of science and technology computer course sharing program'
+site_url: 'https://sustcs.github.io/course/'
+# Repository
+repo_name: 'sustcs/course'
+repo_url: https://github.com/sustcs/course/
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2019 SUSTCS'
+# Configuration
+theme: 
+  name: 'material'
+  font: false
+  language: 'en'
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/sustcs'
+    - type: 'university'
+      link: 'http://dianxin.www.sust.edu.cn/'
+    - type: 'facebook'
+      link: 'https://facebok.com/makergyt' 
+    - type: 'diamond'
+      link: 'https://sust.github.io'
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+

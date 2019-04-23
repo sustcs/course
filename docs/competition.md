@@ -7,4 +7,4 @@
   - [this is test xlsx.xlsx](https://github.com/sustcs/course/raw/master/)
   - [this is test PPT.ppt](https://github.com/sustcs/course/raw/master/)
   - [this is test PPTx.pptx](https://github.com/sustcs/course/raw/master/)
-repo=sustcs/course&path=competition&name=competition
+repo=sustcs/course&path=competition/wechat&name=wechat

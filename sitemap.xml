@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://sustcs.github.io/course/</loc>
-     <lastmod>2019-04-17</lastmod>
+     <lastmod>2019-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://sustcs.github.io/course/about/</loc>
-     <lastmod>2019-04-17</lastmod>
+     <lastmod>2019-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://sustcs.github.io/course/competition/</loc>
+     <lastmod>2019-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://sustcs.github.io/course/operating system/</loc>
-     <lastmod>2019-04-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://sustcs.github.io/course/test/</loc>
-     <lastmod>2019-04-17</lastmod>
+     <lastmod>2019-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
